@@ -1,12 +1,12 @@
 # web-app
-##Web Application Homework
+## Web Application Homework
 
 Daniel Zehirov
 
-###Tutorial
+### Tutorial
 
-###[Part 1] ()
+### [Part 1] ()
 
-###[Part 2] ()
+### [Part 2] ()
 
-###[Part 3] ()
+### [Part 3] ()
