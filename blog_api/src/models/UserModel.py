@@ -113,4 +113,3 @@ class UserModel(db.Model):
     #####################
     # existing code remain #
     ######################
-    
