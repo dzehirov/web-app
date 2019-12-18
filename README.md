@@ -9,4 +9,4 @@ Daniel Zehirov
 
 ### [Part 2](https://github.com/dzehirov/web-app/tree/part2)
 
-### [Part 3]()
+### [Part 3](https://github.com/dzehirov/web-app/tree/part3)
