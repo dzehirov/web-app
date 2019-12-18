@@ -54,4 +54,3 @@ class UserModel(db.Model):
 
     def __repr(self):
         return '<id {}>'.format(self.id)
-    
