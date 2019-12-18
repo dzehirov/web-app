@@ -96,4 +96,3 @@ class BlogpostSchema(Schema):
   owner_id = fields.Int(required=True)
   created_at = fields.DateTime(dump_only=True)
   modified_at = fields.DateTime(dump_only=True)
-  
