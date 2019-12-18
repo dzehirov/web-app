@@ -51,4 +51,3 @@ class Auth():
             return func(*args, **kwargs)
 
         return decorated_auth
-    
